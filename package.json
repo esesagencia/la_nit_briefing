@@ -4,10 +4,10 @@
   "description": "Formulario de briefing estratégico para La Nit",
   "private": true,
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
+  "dev": "vite",
+  "build": "npx vite build",
+  "preview": "vite preview"
+},
   "dependencies": {
     "lucide-react": "^0.263.1",
     "react": "^18.2.0",
