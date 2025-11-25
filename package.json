@@ -4,17 +4,16 @@
   "description": "Formulario de briefing estratégico para La Nit",
   "private": true,
   "scripts": {
-  "dev": "vite",
-  "build": "npx vite build",
-  "preview": "vite preview"
-},
-  "dependencies": {
-    "lucide-react": "^0.263.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
-  "devDependencies": {
-    "@vitejs/plugin-react": "^5.1.1",
-    "vite": "^7.2.4"
-  }
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.263.1",
+    "vite": "^7.2.4",
+    "@vitejs/plugin-react": "^5.1.1"
+  },
+  "devDependencies": {}
 }
